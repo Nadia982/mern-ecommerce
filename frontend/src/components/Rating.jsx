@@ -25,4 +25,4 @@ const Rating = ({value, text}) => {
   )
 }
 
-export default Rating
+export default Rating;
